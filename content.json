@@ -1,0 +1,95 @@
+{
+    "experiences": [
+        {
+            "id": 1,
+            "category": "Project Experience",
+            "icon": "💻",
+            "title": "Fullstack Developer – Client-Based Information Systems Project (Unlock Studio)",
+            "description": "Developed an online booking system from scratch as a main project for the Information Systems course, collaborating directly with a real-world client (Unlock Studio, Malang) to digitize their business processes. Implemented a key feature for automated invoice delivery and booking notifications via WhatsApp integration (whatsapp-web.js).",
+            "tags": ["Laravel", "PostgreSQL", "whatsapp-web.js", "Blade Templates", "JavaScript", "HTML/CSS"],
+            "year": "Sept 2024 – Dec 2024"
+            
+        },
+        {
+            "id": 2,
+            "category": "Project Experience",
+            "icon": "💻",
+            "title": "Fullstack Developer – Arabic Language E-Learning Platform",
+            "description": "Built an interactive Arabic language learning platform from scratch, serving as the research foundation for the client's academic thesis. Developed core features, including a reading material module, a multiple-choice quiz system with automatic scoring, and interactive flashcards for vocabulary practice. Designed and implemented a user-friendly admin panel, enabling the client to independently manage all educational content and quiz questions.",
+            "tags": ["Laravel", "MySQL", "Blade Templates", "JavaScript", "HTML/CSS"],
+            "year": "Mar 2025 – May 2025"
+        },
+        {
+            "id": 3,
+            "category": "Competition Experience",
+            "icon": "🏆",
+            "title": "3rd Place National Winner – Waste Traceability Web/App Design Competition (WasteTrack)",
+            "description": "Served as the Backend Specialist in the team, responsible for the system architecture, database, and server deployment for the Sistem Informasi Pengelolaan Bank Sampah Terpadu Kabupaten Malang (SITERA) project. Designed and implemented a microservices architecture to handle the business logic for 5 complex user roles.",
+            "tags": ["Laravel", "MySQL", "Nginx", "JWT", "REST API"],
+            "year": "Feb 2025",
+            "media": [
+                {
+                    "type": "image",
+                    "url": "assets/content/wastetrack1.jpeg",
+                    "title": "Team Photo at the Competition"
+                },
+                {
+                    "type": "image",
+                    "url": "assets/content/arsitektur-sitera.png",
+                    "title": "Architecture Diagram of SITERA"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "category": "Competition Experience",
+            "icon": "🏆",
+            "title": "2nd Place Winner – SDGs Hackathon (Eatery Project)",
+            "description": "Designed and built 'Eatery' end-to-end, a web platform connecting food donors with people in need, securing 2nd place in the competition.",
+            "tags": ["Laravel", "MySQL", "Blade Templates", "HTML", "CSS"],
+            "year": "Oct 2024"
+        },
+        {
+            "id": 5,
+            "category": "Research Experience",
+            "icon": "🤖",
+            "title": "Programmer – Hexapod Robot Research (KRSRI Preparation)",
+            "description": "Responsible for all aspects of software for six-legged SAR (Search and Rescue) robots. Developed Inverse Kinematics algorithms to control 18 actuators and implemented victim object detection using YOLOv5. Building a Master-Slave architecture between two microcontrollers with UDP communication protocol.",
+            "tags": ["C++", "Arduino", "ESP32", "UDP", "YOLOv5", "Dynamixel SDK"],
+            "year": "Jan 2025",
+            "media": [
+                {
+                    "type": "video",
+                    "url": "assets/content/krsri.mp4",
+                    "title": "Hexapod Robot Walking Demo"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "category": "Competition Experience",
+            "icon": "🏆",
+            "title": "National Finalist, Indonesian Robot Contest (KRI) – Humanoid Soccer Robot Division",
+            "description": "Responsible for computer vision system in Humanoid Soccer Robot. Developed a computer vision system using C++ and OpenCV within the Robot Operating System (ROS) framework.",
+            "tags": ["C++", "OpenCV", "ROS"],
+            "year": "Aug 2024",
+            "media": [
+                {
+                    "type": "video",
+                    "url": "assets/content/humanoid.mkv",
+                    "title": "Humanoid Robot in Action"
+                },
+                 {
+                    "type": "image",
+                    "url": "assets/content/kri1.jpeg",
+                    "title": "KRI 2024 Team Photo"
+                },
+                {
+                    "type": "image",
+                    "url": "assets/content/sertifikat_kri_krsbih.png",
+                    "title": "Certificate of Participation"
+                }
+            ]
+        }
+    ]
+}
